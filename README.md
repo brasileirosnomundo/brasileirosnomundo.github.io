@@ -12,7 +12,9 @@ N&iacute;vel 3: Escreva - Em breve
 ## Agradecimentos
 
 Conselho dos representantes do Brasileiros no Exterior
+
 Consulado Geral do Brasil em Mil&atilde;o <small>Conselho dos Cidad&atilde;os</small>
+
 Associa&ccedil;&atilde;o War&atilde;
 
 github.com
