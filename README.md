@@ -2,7 +2,7 @@
 
 Conhe&ccedil;a a nova ferramenta de produtividade para o Conselho dos Representantes dos Brasileiros no Exterior. 
 
-N&iacute;vel 1: [Conhe&ccedil;a](brasileirosnomundo.github.io/trello-CRBE)
+N&iacute;vel 1: [Conhe&ccedil;a](/trello-CRBE)
 
 
 N&iacute;vel 2: Leia - Em breve
